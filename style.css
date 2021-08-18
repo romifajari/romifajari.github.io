@@ -37,12 +37,10 @@ background-size: 1800% 1800%;
     100%{background-position:0% 82%}
 }
 a {
-  position:absolute;
   z-index: 6;
   vertical-align: text-top;
 }
 p {
-  position:absolute;
   z-index: 7;
   vertical-align: text-top;
 }
