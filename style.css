@@ -1,1 +1,8 @@
-.f1 {font-family: Helvetica;}
+body {
+background-color: #0C0C0C;
+}
+
+p {
+font-family:Helvetica;
+color:#FFFFFF;
+}
