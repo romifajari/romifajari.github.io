@@ -7,8 +7,13 @@ font-family:Helvetica;
 color:#FFFFFF;
 }
 
-img {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+.center {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.center div {
+width: 100px;
+height: 100px;
 }
