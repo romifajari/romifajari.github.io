@@ -6,3 +6,24 @@ p {
 font-family:Helvetica;
 color:#FFFFFF;
 }
+
+/* !! credit: ttps://css-tricks.com/centering-in-the-unknown !! */
+.block {
+  height:500px;
+  text-align: center;
+}
+
+.block:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em; /* Adjusts for spacing */
+}
+
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+  width: 300px;
+}
+/* !! credit: ttps://css-tricks.com/centering-in-the-unknown !! */
