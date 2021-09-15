@@ -1,0 +1,16 @@
+body {
+background-color: #100c0c;
+}
+
+p {
+font-family: Helvetica;
+color: #FFFFFF;
+}
+
+/* Why is it so hard to vertically align something */
+.center {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 90vh;
+}
