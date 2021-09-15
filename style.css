@@ -7,6 +7,7 @@ font-family: Helvetica;
 color: #FFFFFF;
 }
 
+/* Why is it so hard to vertically align something */
 .center {
 display: flex;
 justify-content: center;
