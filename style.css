@@ -1,10 +1,11 @@
 body {
-background-color: #000000;
+background-color: #bdd4e7;
+background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
 }
 
 p {
 font-family: Helvetica;
-color: #FFFFFF;
+color: #000000;
 }
 
 /* Why is it so hard to vertically align something */
